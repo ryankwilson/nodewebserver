@@ -1,0 +1,9 @@
+footer {
+ vertical-align: bottom;
+ font-family: verdana;
+ color: gray;
+}
+
+section {
+    padding: 20px;
+}
